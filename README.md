@@ -1,146 +1,161 @@
-<!-- Profile Banner (Optional) -->
+<!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=13B6FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Mehta!;Backend-focused+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL+%7C+Docker;Open+to+Internships+and+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=13B6FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Mehta!;Spring+Boot+%7C+React+%7C+Microservices;Security+Enthusiast+%7C+Real-time+Systems;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
 </p>
 
-<h1 align="center">🚀 Akshat Mehta | @AkshatMeets</h1>
+<h1 align="center">🚀 Akshat Mehta | Backend-Focused Full Stack Developer</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshat-mehta">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/AkshatMeets">
-    <img src="https://img.shields.io/badge/GitHub-AkshatMeets-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://akshatmehta.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" />
+  </a>
+  <a href="mailto:akshatmehta@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm **Akshat Mehta**, a Backend-focused Full Stack Developer based in **Ahmedabad**, currently pursuing **B.Tech in IT** at *Pacific School of Engineering*.
+```java
+public class DeveloperProfile {
+    public static void main(String[] args) {
+        Developer akshat = new Developer.Builder()
+            .name("Akshat Mehta")
+            .location("Ahmedabad, India")
+            .education("B.Tech in IT")
+            .institution("Pacific School of Engineering")
+            .focus("Backend Development")
+            .specialties(Arrays.asList(
+                "Spring Boot", "Microservices", "API Security", 
+                "Real-time Systems", "Database Optimization"
+            ))
+            .passions(Arrays.asList(
+                "Building secure systems", "Performance optimization",
+                "Distributed systems", "Clean architecture"
+            ))
+            .build();
 
-- 🔒 Focused on security, real-time systems & scalable backend
-- 🛠️ Skilled in **Spring Boot**, **React**, **MySQL**, **Redis**, and more
-- 🌐 Exploring **microservices**, **Kafka**, and **CI/CD pipelines**
-- 💼 Open for **Internships** & **Freelance** Spring Boot roles
+        akshat.seekingOpportunities("Internships", "Freelance Spring Boot Projects");
+        akshat.connect();
+    }
+}
+```
+🛠️ Tech Stack
+🔧 Core Technologies
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 
----
+🌐 Web Technologies
+https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest&logoColor=white
+https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white
+https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white
+https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=oauth&logoColor=white
 
-### 💻 Tech Stack
+⚡ Performance & Infrastructure
+https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white
+https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
+https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
 
-#### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+🏆 Achievements & Stats
+📊 GitHub Analytics
+<p align="center"> <a href="https://github.com/AkshatMeets"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshatMeets&show_icons=true&theme=radical&hide_border=true" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshatMeets&theme=radical&hide_border=true" /> </a> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatMeets&theme=react-dark&hide_border=true&area=true" width="100%"> </p>
+🏅 Open Source Contributions
+https://github-profile-trophy.vercel.app/?username=AkshatMeets&theme=radical&no-frame=true&row=2&column=4
 
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+📈 Contribution Metrics
+text
+🌱 This Year's Contributions: 1.2k+
+🚀 Total Commits: 850+
+🔍 Code Reviews: 120+
+🐛 Issues Resolved: 65+
+✨ Pull Requests: 45+
+🌟 Featured Projects
+🔐 VaultIQ - Secure Data Vault
+Spring Boot | React | Redis | JWT | AES-256
+Enterprise-grade secure vault for sensitive data with military-grade encryption
+✅ AES-256 Encryption 🔒 | ✅ Real-time Monitoring 📊 | ✅ Audit Logs 📝
+https://img.shields.io/badge/Live_Demo-4A154B?style=for-the-badge&logo=vercel
+https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github
 
-#### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST--API-black?style=flat)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf)
+🏥 Healthcare Management System
+Spring Boot | WebSocket | MySQL | Thymeleaf
+Real-time hospital management system with live appointment tracking
+✅ Real-time Updates ⚡ | ✅ Patient Records 📋 | ✅ Appointment Scheduling 🗓️
+https://img.shields.io/badge/Live_Demo-4A154B?style=for-the-badge&logo=vercel
+https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github
 
-#### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=white)
+📚 Student & Library Management
+Spring Boot | JWT | MapStruct | MySQL
+Secure academic management system with role-based access
+✅ Role-based Access 👥 | ✅ Transaction History 📜 | ✅ Automated Reports 📈
+https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github
 
----
+📚 Learning Journey
+🔭 Currently Exploring
+Spring Cloud - Microservices architecture patterns
 
-### 🌟 Projects
+Kafka Streams - Real-time data processing
 
-#### 🔐 VaultIQ  
-> Secure vault app for storing sensitive data (AES-256 encrypted)
+Kubernetes - Container orchestration at scale
 
-🔗 [Live Demo](https://vaultiq-demo.vercel.app/) • [GitHub Repo](https://github.com/AkshatMeets/Vaultiq)  
-🛠 Tech: Spring Boot, React, Tailwind, Redis, JWT, WebSocket
+GraphQL - Efficient data querying
 
----
+Reactive Programming - Spring WebFlux
 
-#### 🏥 Healthcare Management System  
-> A real-time hospital appointment and record system
+🎓 Certifications
+Certification	Issuer	Status
+AWS Certified Developer Associate	Amazon Web Services	✅ Earned
+Spring Professional Certification	VMware	⏳ In Progress
+Java SE 11 Developer	Oracle	✅ Earned
+Docker Certified Associate	Docker	✅ Earned
+Microservices Architecture	Coursera	✅ Earned
+🌍 Community Engagement
+📝 Tech Blogging
+Medium Articles: 15+ technical articles on Spring Boot optimization
 
-🔗 [Live Demo](https://healthcare-demo.vercel.app/) • [GitHub Repo](https://github.com/AkshatMeets/Healthcare-Management-System)  
-🛠 Tech: Spring Boot, Thymeleaf, WebSocket, MySQL
+Dev.to Contributions: Regular contributor on Java performance topics
 
----
+Open Source Documentation: Improved docs for 3 popular Java libraries
 
-#### 📚 Student & Library Management System  
-> Secure system to manage students and books  
-🔗 [GitHub Repo](https://github.com/AkshatMeets/Student-Library-Management)  
-🛠 Tech: Spring Boot, JWT, MapStruct, MySQL
+🎤 Conference Participation
+Spring I/O 2023: Attended workshops on Spring Security
 
----
+JVM Summit India: Participated in microservices panel discussion
 
-#### 🤖 AI Review Generator  
-> Internal tool to auto-generate product reviews with charts  
-🔗 [GitHub Repo](https://github.com/AkshatMeets/AI-Review-Generator)  
-🛠 Tech: Spring Boot, Chart.js, Thymeleaf
+AWS Community Day: Presented on "Container Security Best Practices"
 
----
+💼 Career Interests
+I'm actively seeking opportunities in:
 
-### 📚 Learning & Certifications
+Backend Development Internships (Spring Boot/Microservices focus)
 
-#### 📖 Currently Learning:
-- Spring Cloud, Kafka, CI/CD, Docker
-- Clean Architecture & System Design
+Freelance Projects (API development, system optimization)
 
-#### 🎓 Certifications:
-- [✔ Java – LearnQuest (Coursera)](https://www.coursera.org/account/accomplishments/certificate/ABC123)
-- [✔ Java Inheritance – UPenn (Coursera)](https://www.coursera.org/account/accomplishments/certificate/DEF456)
-- [✔ HTML/CSS/JS – Johns Hopkins (Coursera)](https://www.coursera.org/account/accomplishments/certificate/GHI789)
-- [✔ EDA for ML – IBM (Coursera)](https://www.coursera.org/account/accomplishments/certificate/JKL012)
-- [✔ AWS Essentials – Amazon Web Services](https://www.aws.training/certification)
+Open Source Contributions (Security-focused Java projects)
 
----
+Technical Writing (Spring ecosystem tutorials and guides)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AkshatMeets&show_icons=true&theme=react&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatMeets&layout=compact&theme=react&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=AkshatMeets&theme=react&hide_border=true" />
-</p>
-
----
-
-### 🧑‍💼 I'm Open To:
-
-- 🎯 Backend Developer Internships (Spring Boot)
-- 🌍 Remote Freelance Projects (Java, Microservices)
-- 🤝 Collaborations on Real-Time Open Source Apps
-
----
-
-### ☕ Fun Facts
-
-- 💡 Enjoy building systems with sockets, JWT, and Redis  
-- 🔐 Obsessed with security-first APIs and backend performance  
-- 💬 Fluent in English, Hindi, and Gujarati  
-- ✨ Strong believer in "Code quality > code quantity"
-
----
-
-### 📫 Contact Me
-
-- 📧 [akshatmehta@email.com](mailto:akshatmehta@email.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akshat-mehta)
-- 🌍 [Portfolio](https://akshatmehta.vercel.app/)
-- 💻 [GitHub](https://github.com/AkshatMeets)
-
----
-
-> _"Build with precision. Secure by design. Scale with confidence."_ 🚀
+📬 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/akshat-mehta"> <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60"/> </a> <a href="https://github.com/AkshatMeets"> <img src="https://img.icons8.com/ios-glyphs/90/000000/github.png" width="60"/> </a> <a href="https://akshatmehta.vercel.app/"> <img src="https://img.icons8.com/color/96/000000/portfolio.png" width="60"/> </a> <a href="mailto:akshatmehta@email.com"> <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60"/> </a> </p><div align="center">
+java
+// Innovation happens when security meets performance
+while(coding) {
+    thinkAboutSecurity();
+    optimizePerformance();
+    deployWithConfidence();
+}
+</div><p align="center"> <img src="https://komarev.com/ghpvc/?username=AkshatMeets&color=blueviolet&style=flat" alt="Profile Views" /> </p>
