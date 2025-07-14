@@ -29,7 +29,7 @@ public class DeveloperProfile {
     public static void main(String[] args) {
         Developer akshat = new Developer.Builder()
             .name("Akshat Mehta")
-            .location("Ahmedabad, India")
+            .location("Surat, India")
             .education("B.Tech in IT")
             .institution("Pacific School of Engineering")
             .focus("Backend Development")
