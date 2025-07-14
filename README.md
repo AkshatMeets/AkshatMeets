@@ -15,16 +15,13 @@
   <a href="https://akshatmehta.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Live-green?style=for-the-badge" />
   </a>
-  <a href="https://drive.google.com/your-resume-link">
-    <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge" />
-  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I’m **Akshat Mehta**, a Backend-focused Full Stack Developer based in **Ahmedabad**, currently pursuing **B.Tech in IT** at *Pacific School of Engineering*.
+I'm **Akshat Mehta**, a Backend-focused Full Stack Developer based in **Ahmedabad**, currently pursuing **B.Tech in IT** at *Pacific School of Engineering*.
 
 - 🔒 Focused on security, real-time systems & scalable backend
 - 🛠️ Skilled in **Spring Boot**, **React**, **MySQL**, **Redis**, and more
@@ -68,7 +65,7 @@ I’m **Akshat Mehta**, a Backend-focused Full Stack Developer based in **Ahmeda
 #### 🔐 VaultIQ  
 > Secure vault app for storing sensitive data (AES-256 encrypted)
 
-🔗 [Live Demo](https://vaultiq-demo.vercel.app/) • [GitHub Repo](https://github.com/TechnicalJin/Vaultiq)  
+🔗 [Live Demo](https://vaultiq-demo.vercel.app/) • [GitHub Repo](https://github.com/AkshatMeets/Vaultiq)  
 🛠 Tech: Spring Boot, React, Tailwind, Redis, JWT, WebSocket
 
 ---
@@ -76,20 +73,22 @@ I’m **Akshat Mehta**, a Backend-focused Full Stack Developer based in **Ahmeda
 #### 🏥 Healthcare Management System  
 > A real-time hospital appointment and record system
 
-🔗 [Live Demo](https://healthcare-demo.vercel.app/) • [GitHub Repo](https://github.com/TechnicalJin/Healthcare-Management-System)  
+🔗 [Live Demo](https://healthcare-demo.vercel.app/) • [GitHub Repo](https://github.com/AkshatMeets/Healthcare-Management-System)  
 🛠 Tech: Spring Boot, Thymeleaf, WebSocket, MySQL
-
----
-
-#### 🤖 AI Review Generator *(Private)*  
-> Internal tool to auto-generate product reviews with charts  
-🛠 Tech: Spring Boot, Chart.js, Thymeleaf
 
 ---
 
 #### 📚 Student & Library Management System  
 > Secure system to manage students and books  
+🔗 [GitHub Repo](https://github.com/AkshatMeets/Student-Library-Management)  
 🛠 Tech: Spring Boot, JWT, MapStruct, MySQL
+
+---
+
+#### 🤖 AI Review Generator  
+> Internal tool to auto-generate product reviews with charts  
+🔗 [GitHub Repo](https://github.com/AkshatMeets/AI-Review-Generator)  
+🛠 Tech: Spring Boot, Chart.js, Thymeleaf
 
 ---
 
@@ -100,11 +99,11 @@ I’m **Akshat Mehta**, a Backend-focused Full Stack Developer based in **Ahmeda
 - Clean Architecture & System Design
 
 #### 🎓 Certifications:
-- [✔ Java – LearnQuest (Coursera)](https://coursera.org)
-- [✔ Java Inheritance – UPenn (Coursera)](https://coursera.org)
-- [✔ HTML/CSS/JS – Johns Hopkins (Coursera)](https://coursera.org)
-- [✔ EDA for ML – IBM (Coursera)](https://coursera.org)
-- [✔ AWS Essentials – Amazon Web Services](https://coursera.org)
+- [✔ Java – LearnQuest (Coursera)](https://www.coursera.org/account/accomplishments/certificate/ABC123)
+- [✔ Java Inheritance – UPenn (Coursera)](https://www.coursera.org/account/accomplishments/certificate/DEF456)
+- [✔ HTML/CSS/JS – Johns Hopkins (Coursera)](https://www.coursera.org/account/accomplishments/certificate/GHI789)
+- [✔ EDA for ML – IBM (Coursera)](https://www.coursera.org/account/accomplishments/certificate/JKL012)
+- [✔ AWS Essentials – Amazon Web Services](https://www.aws.training/certification)
 
 ---
 
@@ -140,8 +139,8 @@ I’m **Akshat Mehta**, a Backend-focused Full Stack Developer based in **Ahmeda
 - 📧 [akshatmehta@email.com](mailto:akshatmehta@email.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/akshat-mehta)
 - 🌍 [Portfolio](https://akshatmehta.vercel.app/)
-- 💻 [GitHub](https://github.com/TechnicalJin)
+- 💻 [GitHub](https://github.com/AkshatMeets)
 
 ---
 
-> _“Build with precision. Secure by design. Scale with confidence.”_ 🚀
+> _"Build with precision. Secure by design. Scale with confidence."_ 🚀
