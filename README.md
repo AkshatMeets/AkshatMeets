@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=13B6FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Mehta!;Spring+Boot+%7C+React+%7C+Microservices;Security+Enthusiast+%7C+Real-time+Systems;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=13B6FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Mehta!;Full+Stack+Developer+%7C+CE+Student+%7C+PSE;Intern+Karmanye TECH.+%7C+Real-time+Systems;Open+to+Internships+%26+Freelance+Work" alt="Typing SVG" />
 </p>
 
 <h1 align="center">🚀 Akshat Mehta | Backend-Focused Full Stack Developer</h1>
