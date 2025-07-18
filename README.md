@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshat-mehta" target="blank">
+  <a href="[https://linkedin.com/in/akshat-mehta](https://www.linkedin.com/in/akshat-mehta-012250258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akshat-mehta"/>
   </a>
   <a href="https://github.com/AkshatMeets" target="blank">
     <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="AkshatMeets"/>
   </a>
-  <a href="mailto:akshatmehta@email.com">
+  <a href="mailto:akshatmehta220@email.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
