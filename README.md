@@ -67,13 +67,13 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/akshat-mehta" target="blank">
+  <a href="https://www.linkedin.com/in/akshat-mehta-012250258" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/>
   </a>
   <a href="https://github.com/AkshatMeets" target="blank">
     <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" width="40"/>
   </a>
-  <a href="mailto:akshatmehta@email.com">
+  <a href="mailto:akshatmehta220@email.com">
     <img src="https://img.icons8.com/color/48/000000/gmail.png" width="40"/>
   </a>
 </p>
