@@ -1,4 +1,4 @@
-<!-- Dynamic Typing Effect Header -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Akshat+Mehta;Backend-Focused+Full+Stack+Developer;Spring+Boot+%7C+Microservices+%7C+Cloud+Native;Building+Scalable+and+Secure+Systems" alt="Typing SVG" />
 </p>
