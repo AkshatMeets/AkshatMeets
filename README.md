@@ -50,7 +50,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshatMeets&theme=react-dark" width="100%">
 </p>
 
----
+
 
 ### 🚀 Featured Projects
 
