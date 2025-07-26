@@ -52,7 +52,7 @@
 
 
 
-### 🚀 Featured Projects.
+### 🚀 Featured Projects
 
 1. **VaultIQ** - Secure Data Vault (Spring Boot + React)  
    🔐 Military-grade encryption | 📊 Real-time monitoring  
